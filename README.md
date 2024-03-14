@@ -1,2 +1,2 @@
 # Interactive_quiz_application
-This is an Interactive Quiz Application build using HTML, CSS, Bootstrap and JavaScript.
+This is an Simple Quiz Application build using HTML, CSS, Bootstrap and JavaScript.
